@@ -1,6 +1,6 @@
 import { Tree, invertBinaryTree } from './invert-binary-tree';
 
-test('hola', () => {
+test('Should invert a binary tree correctly', () => {
   const tree: Tree = {
     left: {
       left: {
